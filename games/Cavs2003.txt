@@ -1,6 +1,6 @@
-train: games/train/images
-val: games/valid/images
+train: /content/Cavs2003/games/train/images
+val: /content/Cavs2003/games/valid/images
 
-nc = 3
+nc: = 3
 
 names: ["LeBron", "Ball", "Net"]
