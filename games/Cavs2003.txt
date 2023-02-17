@@ -1,0 +1,6 @@
+train: games/train/images
+val: games/valid/images
+
+nc = 3
+
+names: ["LeBron", "Ball", "Net"]
